@@ -1,0 +1,10 @@
+#BlueJ class context
+#Mon Sep 14 23:33:01 BRT 2026
+comment0.target=ContaCorrente
+comment1.params=saldoInicial
+comment1.target=ContaCorrente(double)
+comment2.target=void consultaSaldo()
+comment3.target=void deposito()
+comment4.target=void retirada()
+comment5.target=void emprestimo()
+numComments=6
